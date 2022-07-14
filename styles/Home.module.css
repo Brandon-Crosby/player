@@ -1,0 +1,16 @@
+.container {
+  /* padding: 0 2rem; */
+  /* background: linear-gradient(rgb(54, 79, 114), rgb(35, 56, 93)); */
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #e8e6e4;
+  background: linear-gradient(rgb(54, 79, 114), rgb(35, 56, 93));
+}
